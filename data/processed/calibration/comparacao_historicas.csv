@@ -1,0 +1,92 @@
+ano,turno,cargo,protocolo,candidatos,formato_A,formato_B,so_A,so_B,max_dif,situacao,decisao,nota,fonte_final
+2014,1,governador,PB000022014,3,,total,0,3,,so_B,,,
+2014,1,governador,PB000032014,3,,total,0,3,,so_B,,,
+2014,1,governador,PB000042014,4,,total,0,4,,so_B,,,
+2014,1,governador,PB000132014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000162014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000222014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000282014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000292014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000302014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000352014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000372014,7,total,,4,0,,so_A,usar_A,releitura cega igual a A (B não achou a fonte),A
+2014,1,governador,PB000382014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000392014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,PB000412014,7,total,total,0,0,0,conferido_duplo,,,A
+2014,1,governador,,2,,total,0,2,,so_B,,,
+2014,1,senador,PB000042014,4,,total,0,4,,so_B,,,
+2014,1,senador,PB000132014,8,total,total,1,0,0,divergente,usar_A,releitura cega (releitura_historica.csv) igual a A e B; B não tinha brancos/nulos e indecisos,A
+2014,1,senador,PB000162014,4,total,,4,0,,so_A,usar_A,releitura cega igual a A; fonte publica só 4 candidatos (a razão entre eles não depende dos omitidos),A
+2014,1,senador,PB000222014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000282014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000292014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000302014,8,total,,6,0,,so_A,usar_A,releitura cega igual a A,A
+2014,1,senador,PB000352014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000372014,8,total,,6,0,,so_A,usar_A,releitura cega igual a A (B não achou a fonte),A
+2014,1,senador,PB000382014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000392014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,1,senador,PB000412014,8,total,total,0,0,0,conferido_duplo,,,A
+2014,2,governador,PB000042014,3,,total,0,3,,so_B,,,
+2014,2,governador,PB000432014,3,total,total,0,0,0,conferido_duplo,,,A
+2014,2,governador,PB000462014,3,total,total,0,0,0,conferido_duplo,,,A
+2014,2,governador,PB000502014,3,total,total,0,0,0,conferido_duplo,,,A
+2014,2,governador,PB000522014,3,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB005692018,6,total,total,0,0,0,conferido_duplo,usar_A,A e B iguais nos candidatos principais; só A registra Rama Dantas com 0,A
+2018,1,governador,PB012772018,6,total,total,0,0,0,conferido_duplo,usar_A,A e B iguais nos candidatos principais; A separa Tárcio e Rama (0.5 cada) e B junta em OUTROS (1),A
+2018,1,governador,PB017172018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB026422018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB029982018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB034182018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB038532018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB041802018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB043512018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB075952018,6,total,total,0,0,0.8099999999999987,divergente,usar_B,"Maranhão 26.9 no texto é erro de digitação da fonte (soma 100.81); o gráfico e os válidos publicados dão 26.09, como em B; A anotou a dúvida",B
+2018,1,governador,PB080792018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB080812018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB086542018,6,total,total,0,0,0,conferido_duplo,,,A
+2018,1,governador,PB098782018,6,total,total,0,1,0,divergente,usar_B,A e B iguais nos candidatos; B registra também brancos/nulos e indecisos,B
+2018,1,senador,PB005692018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB012772018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB017172018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB038532018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB043512018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB075952018,7,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB080792018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB080812018,8,citacoes,citacoes,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB086542018,8,soma,soma,0,0,0,conferido_duplo,,,A
+2018,1,senador,PB098782018,8,,soma,0,7,,so_B,usar_B,"releitura cega confirma a soma 1º+2º voto publicada pelo PB Agora (27/08), igual a B; A só tinha o 1º voto",B
+2022,1,governador,PB009552022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB019792022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB023202022,7,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB026292022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB034552022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB044332022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB049092022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB054062022,6,total,,5,0,,so_A,usar_A,"releitura cega igual a A; a fonte (Brasil 247, 09/09) cita o registro BR-04946/2022 (Vox Populi), sem prova de que seja o PB-05406/2022 da ficha; entra como pesquisa estadual registrada e divulgada",A
+2022,1,governador,PB057412022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB059412022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB061592022,7,,validos,0,4,,so_B,excluir,números (válidos) só aparecem no PDF pós-eleição da Veritá; nenhuma divulgação antes de 02/10 localizada por B nem pela releitura,
+2022,1,governador,PB086322022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB088162022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,governador,PB095522022,9,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB009552022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB019792022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB023202022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB026292022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB034552022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB044332022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB049092022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB054062022,7,total,,6,0,,so_A,usar_A,releitura cega igual a A; mesmo registro BR-04946/2022,A
+2022,1,senador,PB057412022,7,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB059412022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB061592022,7,validos,validos,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB086322022,5,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB088162022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,1,senador,PB095522022,8,total,total,0,0,0,conferido_duplo,,,A
+2022,2,governador,PB016682022,3,,total,0,3,,so_B,excluir,releitura: relatório postado no site da Veritá no dia da eleição (30/10); não divulgado antes,
+2022,2,governador,PB020072022,3,total,total,0,0,0,conferido_duplo,,,A
+2022,2,governador,PB020832022,3,total,total,0,0,0,conferido_duplo,,,A
+2022,2,governador,PB038362022,3,total,total,0,0,0,conferido_duplo,,,A
+2022,2,governador,PB051622022,3,total,total,0,0,0,conferido_duplo,,,A
+2022,2,governador,PB080672022,2,total,,2,0,,so_A,excluir,releitura: o card divulgado é de intenção de voto espontânea,
+2022,2,governador,PB089442022,3,total,total,0,0,0,conferido_duplo,,,A

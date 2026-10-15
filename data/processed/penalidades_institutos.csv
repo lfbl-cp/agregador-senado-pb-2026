@@ -1,0 +1,16 @@
+instituto,categoria,penalidade,excluir
+ANOVA,suspensao_pb,0.75,FALSE
+AtlasIntel,fora_pb,0.9,FALSE
+Avancy,nada,1,FALSE
+Certifica,nada,1,FALSE
+Datatrends,fora_pb,0.9,FALSE
+Falcão,nada,1,FALSE
+Índice Inteligência,suspensao_pb,0.75,FALSE
+Instituto Ranking,nada,1,FALSE
+L3 Sistemas,nada,1,FALSE
+Podium,nada,1,FALSE
+Quaest,fora_pb,0.9,FALSE
+Real Time Big Data,fora_pb,0.9,FALSE
+SETA,suspensao_pb,0.75,FALSE
+TDL,suspensao_pb,0.75,FALSE
+Verita,multa_pb,0,TRUE

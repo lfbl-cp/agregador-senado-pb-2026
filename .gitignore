@@ -1,0 +1,10 @@
+# cache de downloads (TSE, portais, PDFs): recriado pelos scripts
+data/raw/
+
+# logs e arquivos temporários
+data/processed/calibration/cv_log.txt
+*.log
+.Rhistory
+.RData
+.Rproj.user/
+~$*

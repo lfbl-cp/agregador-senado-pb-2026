@@ -1,0 +1,11 @@
+candidato,nome_urna,partido,numero,coligacao,regex
+JOAO_AZEVEDO,João Azevêdo,PSB,400,Daqui pra Melhor,JOAO AZEVEDO|AZEVEDO|\bJOAO\b(?! BATISTA| PESSOA)
+VENEZIANO,Veneziano Vital do Rêgo,MDB,155,Juntos para a Paraíba,VENEZIANO|VITAL DO REGO|\bVENE\b
+NABOR,Nabor Wanderley,REPUBLICANOS,100,Daqui pra Melhor,NABOR
+QUEIROGA,Marcelo Queiroga,PL,222,,QUEIROGA
+MAJOR_FABIO,Major Fábio,NOVO,300,,MAJOR FABIO
+ANDRE_GADELHA,André Gadelha,MDB,151,Juntos para a Paraíba,ANDRE GADELHA|GADELHA
+ROSILENE_SANTANA,Rosilene Santana,UP,800,,ROSILENE
+JOAO_BATISTA,João Batista,UP,801,,JOAO BATISTA
+ADRIANO_TRAJANO,Adriano Trajano,PCO,290,,TRAJANO
+RINALDO_JUNIOR,Rinaldo Júnior,DC,272,,RINALDO

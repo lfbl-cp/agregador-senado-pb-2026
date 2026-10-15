@@ -1,0 +1,16 @@
+protocolo,cargo,turno,decisao,nota
+PB005692018,governador,1,usar_A,A e B iguais nos candidatos principais; só A registra Rama Dantas com 0
+PB012772018,governador,1,usar_A,A e B iguais nos candidatos principais; A separa Tárcio e Rama (0.5 cada) e B junta em OUTROS (1)
+PB075952018,governador,1,usar_B,"Maranhão 26.9 no texto é erro de digitação da fonte (soma 100.81); o gráfico e os válidos publicados dão 26.09, como em B; A anotou a dúvida"
+PB098782018,governador,1,usar_B,A e B iguais nos candidatos; B registra também brancos/nulos e indecisos
+PB000132014,senador,1,usar_A,"releitura cega (releitura_historica.csv) igual a A e B; B não tinha brancos/nulos e indecisos"
+PB000162014,senador,1,usar_A,releitura cega igual a A; fonte publica só 4 candidatos (a razão entre eles não depende dos omitidos)
+PB000302014,senador,1,usar_A,releitura cega igual a A
+PB000372014,governador,1,usar_A,releitura cega igual a A (B não achou a fonte)
+PB000372014,senador,1,usar_A,releitura cega igual a A (B não achou a fonte)
+PB098782018,senador,1,usar_B,"releitura cega confirma a soma 1º+2º voto publicada pelo PB Agora (27/08), igual a B; A só tinha o 1º voto"
+PB054062022,governador,1,usar_A,"releitura cega igual a A; a fonte (Brasil 247, 09/09) cita o registro BR-04946/2022 (Vox Populi), sem prova de que seja o PB-05406/2022 da ficha; entra como pesquisa estadual registrada e divulgada"
+PB054062022,senador,1,usar_A,"releitura cega igual a A; mesmo registro BR-04946/2022"
+PB061592022,governador,1,excluir,"números (válidos) só aparecem no PDF pós-eleição da Veritá; nenhuma divulgação antes de 02/10 localizada por B nem pela releitura"
+PB016682022,governador,2,excluir,"releitura: relatório postado no site da Veritá no dia da eleição (30/10); não divulgado antes"
+PB080672022,governador,2,excluir,"releitura: o card divulgado é de intenção de voto espontânea"

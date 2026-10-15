@@ -1,0 +1,57 @@
+protocolo,instituto,abrangencia,data_inicio,data_fim,data_divulgacao_tse,n,excluir,penalidade,status_coleta,so_primeiro_voto,cenario,formato,data_publicacao,motivo_exclusao,entra
+PB025742026,Instituto Ranking,estadual,2026-01-16,2026-01-18,2026-01-21,1065,FALSE,1,conferida,FALSE,c1,soma,2026-01-27,,TRUE
+PB045832026,ANOVA,estadual,2026-01-24,2026-01-26,2026-01-28,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-01-28,,TRUE
+PB064352026,Falcão,estadual,2026-01-20,2026-01-26,2026-01-30,40000,FALSE,1,nao_encontrada,FALSE,,,2026-01-30,resultado_nao_localizado,FALSE
+PB066172026,SETA,estadual,2026-01-28,2026-01-30,2026-02-02,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-02-03,,TRUE
+PB055002026,Instituto Ranking,rmjp,2026-02-20,2026-02-22,2026-02-25,2000,FALSE,1,conferida,FALSE,c1,soma,2026-03-03,abrangencia_nao_estadual,FALSE
+PB031582026,SETA,estadual,2026-02-26,2026-02-28,2026-03-05,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-03-07,,TRUE
+PB001552026,ANOVA,estadual,2026-03-19,2026-03-21,2026-03-26,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-03-26,,TRUE
+PB005922026,Índice Inteligência,estadual,2026-03-24,2026-03-26,2026-03-29,1536,FALSE,0.75,nao_encontrada,FALSE,,,2026-03-29,resultado_nao_localizado,FALSE
+PB087992026,Verita,estadual,2026-03-24,2026-03-30,2026-03-29,1220,TRUE,0,a_conferir,FALSE,,,2026-03-29,pendente_conferencia,FALSE
+PB039802026,SETA,estadual,2026-03-26,2026-03-28,2026-03-31,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-04-02,,TRUE
+PB006362026,Índice Inteligência,estadual,2026-04-17,2026-04-19,2026-04-22,2400,FALSE,0.75,conferida,FALSE,c1,soma,2026-04-22,,TRUE
+PB055722026,Podium,estadual,2026-04-07,2026-04-22,2026-04-30,1536,FALSE,1,metodologia_nao_confirmada,FALSE,,,2026-04-30,metodologia_nao_confirmada,FALSE
+PB044362026,SETA,estadual,2026-04-29,2026-05-01,2026-05-04,1500,FALSE,0.75,conferida,FALSE,c1,soma_construida,2026-05-07,,TRUE
+PB037482026,Real Time Big Data,estadual,2026-05-25,2026-05-26,2026-05-27,1600,FALSE,0.9,conferida,FALSE,c1,media,2026-05-27,,TRUE
+PB038622026,Instituto Ranking,estadual,2026-05-22,2026-05-25,2026-05-27,2000,FALSE,1,conferida,FALSE,c1,soma,2026-05-27,,TRUE
+PB000572026,ANOVA,estadual,2026-05-25,2026-05-27,2026-05-30,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-06-01,,TRUE
+PB009442026,SETA,estadual,2026-05-25,2026-05-27,2026-05-31,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-06-03,,TRUE
+PB093782026,Índice Inteligência,estadual,2026-05-27,2026-05-29,2026-06-01,2000,FALSE,0.75,conferida,FALSE,c1,soma_construida,2026-06-01,,TRUE
+PB095782026,Datatrends,estadual,2026-06-07,2026-06-09,2026-06-11,1200,FALSE,0.9,conferida,FALSE,,,2026-06-11,formato_nao_utilizavel,FALSE
+PB014022026,SETA,estadual,2026-06-25,2026-06-27,2026-06-30,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-07-02,,TRUE
+PB023572026,TDL,estadual,2026-07-04,2026-07-07,2026-07-09,1200,FALSE,0.75,conferida,FALSE,c1,soma,2026-07-09,,TRUE
+PB042842026,Instituto Ranking,estadual,2026-07-09,2026-07-11,2026-07-14,2000,FALSE,1,nao_encontrada,FALSE,,,2026-07-14,resultado_nao_localizado,FALSE
+PB047222026,Índice Inteligência,estadual,2026-07-10,2026-07-12,2026-07-15,2000,FALSE,0.75,nao_encontrada,FALSE,,,2026-07-15,resultado_nao_localizado,FALSE
+PB033332026,Podium,estadual,2026-07-06,2026-07-11,2026-07-18,2000,FALSE,1,nao_encontrada,FALSE,,,2026-07-18,resultado_nao_localizado,FALSE
+PB019092026,SETA,estadual,2026-07-25,2026-07-27,2026-07-31,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-08-03,,TRUE
+PB095472026,Datatrends,estadual,2026-07-27,2026-07-29,2026-08-02,1200,FALSE,0.9,nao_encontrada,FALSE,,,2026-08-02,resultado_nao_localizado,FALSE
+PB078152026,Índice Inteligência,estadual,2026-08-18,2026-08-20,2026-08-18,2000,FALSE,0.75,nao_encontrada,FALSE,,,2026-08-18,resultado_nao_localizado,FALSE
+PB077902026,Real Time Big Data,estadual,2026-08-19,2026-08-22,2026-08-24,1600,FALSE,0.9,conferida,FALSE,c1,media,2026-08-24,,TRUE
+PB098802026,SETA,estadual,2026-08-19,2026-08-21,2026-08-24,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-08-24,,TRUE
+PB043512026,Índice Inteligência,estadual,2026-08-20,2026-08-22,2026-08-25,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-08-27,,TRUE
+PB078502026,Quaest,estadual,2026-08-21,2026-08-24,2026-08-25,804,FALSE,0.9,conferida,FALSE,c1,media,2026-08-25,,TRUE
+PB027412026,Datatrends,estadual,2026-08-26,2026-08-28,2026-08-30,1200,FALSE,0.9,nao_encontrada,FALSE,,,2026-08-30,resultado_nao_localizado,FALSE
+PB043102026,TDL,estadual,2026-08-26,2026-08-31,2026-09-01,1200,FALSE,0.75,conferida,FALSE,c1,soma,2026-09-01,,TRUE
+PB011182026,AtlasIntel,estadual,2026-08-28,2026-09-02,2026-09-03,1200,FALSE,0.9,nao_encontrada,FALSE,,,2026-09-03,resultado_nao_localizado,FALSE
+PB014712026,ANOVA,estadual,2026-09-03,2026-09-05,2026-09-07,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-09-08,,TRUE
+PB090372026,Instituto Ranking,estadual,2026-09-05,2026-09-07,2026-09-10,2000,FALSE,1,conferida,FALSE,c1,soma,2026-09-10,,TRUE
+PB035152026,Verita,estadual,2026-09-06,2026-09-11,2026-09-11,1220,TRUE,0,nao_encontrada,FALSE,,,2026-09-11,resultado_nao_localizado,FALSE
+PB069272026,Instituto Ranking,estadual,2026-09-16,2026-09-18,2026-09-21,2000,FALSE,1,conferida,FALSE,c1,soma,2026-09-25,,TRUE
+PB013252026,Quaest,estadual,2026-09-18,2026-09-21,2026-09-22,804,FALSE,0.9,conferida,FALSE,c1,media,2026-09-22,,TRUE
+PB047492026,SETA,estadual,2026-09-16,2026-09-18,2026-09-22,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-09-24,,TRUE
+PB065642026,ANOVA,estadual,2026-09-20,2026-09-22,2026-09-23,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-09-23,,TRUE
+PB062752026,Índice Inteligência,estadual,2026-09-20,2026-09-22,2026-09-25,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-10-01,,TRUE
+PB017952026,Verita,estadual,2026-09-21,2026-09-25,2026-09-26,1220,TRUE,0,nao_encontrada,FALSE,,,2026-09-26,resultado_nao_localizado,FALSE
+PB097492026,TDL,estadual,2026-09-23,2026-09-27,2026-09-28,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-09-30,,TRUE
+PB001022026,Instituto Ranking,estadual,2026-09-24,2026-09-26,2026-09-29,2000,FALSE,1,nao_encontrada,FALSE,,,2026-09-29,resultado_nao_localizado,FALSE
+PB015512026,Certifica,estadual,2026-09-26,2026-09-30,2026-10-01,850,FALSE,1,nao_encontrada,FALSE,,,2026-10-01,resultado_nao_localizado,FALSE
+PB057552026,SETA,estadual,2026-09-27,2026-09-30,2026-10-01,1500,FALSE,0.75,conferida,FALSE,c1,soma,2026-10-02,,TRUE
+PB061472026,Podium,estadual,2026-09-20,2026-09-26,2026-10-01,2000,FALSE,1,nao_encontrada,FALSE,,,2026-10-01,resultado_nao_localizado,FALSE
+PB010032026,Real Time Big Data,estadual,2026-09-28,2026-10-01,2026-10-02,1600,FALSE,0.9,conferida,FALSE,c1,media,2026-10-02,,TRUE
+PB086052026,ANOVA,estadual,2026-09-30,2026-10-01,2026-10-02,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-10-02,,TRUE
+PB091192026,Datatrends,estadual,2026-09-28,2026-09-30,2026-10-02,1200,FALSE,0.9,nao_encontrada,FALSE,,,2026-10-02,resultado_nao_localizado,FALSE
+PB012802026,Podium,estadual,2026-09-20,2026-09-26,2026-10-03,2000,FALSE,1,nao_encontrada,FALSE,,,2026-10-03,resultado_nao_localizado,FALSE
+PB018712026,TDL,estadual,2026-09-28,2026-10-02,2026-10-03,2000,FALSE,0.75,conferida,FALSE,c1,soma,2026-10-03,,TRUE
+PB050482026,Quaest,estadual,2026-10-02,2026-10-03,2026-10-03,1800,FALSE,0.9,conferida,FALSE,c1,media,2026-10-03,,TRUE
+PB059392026,Índice Inteligência,estadual,2026-09-28,2026-09-30,2026-10-03,2000,FALSE,0.75,nao_encontrada,FALSE,,,2026-10-03,resultado_nao_localizado,FALSE
+PB099262026,AtlasIntel,estadual,2026-09-27,2026-10-02,2026-10-03,1200,FALSE,0.9,conferida,FALSE,c1,media,2026-10-03,,TRUE
